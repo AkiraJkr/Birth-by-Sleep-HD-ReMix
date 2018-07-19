@@ -9,14 +9,14 @@ Or make a pull request if you do not wish to contact me.
 
 ![There Should Be a Fancy Image Here](https://i.imgur.com/0v2XaQ1.png)
 
-# Latest Version: pre-1.1
+# Latest Version: 1.0.3
 
 Original Forum Thread: https://forums.ppsspp.org/showthread.php?tid=24126
 
 <br><b>Download Links:</b>
 
 <br>Stable Version: https://github.com/AkiraJkr/Birth-by-Sleep-HD-ReMix/archive/master.zip
-<br>Early Update Version: Not avaiable yet
+<br>Early Update Version(May have issues): https://github.com/AkiraJkr/Birth-by-Slee-HD-ReMix-Nightly/archive/master.zip
 
 
 <br>To install, first download, then go to the TEXTURES Folder found in:
