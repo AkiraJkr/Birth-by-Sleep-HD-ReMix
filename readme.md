@@ -16,7 +16,7 @@ Original Forum Thread: https://forums.ppsspp.org/showthread.php?tid=24126
 <br><b>Download Links:</b>
 
 <br>Stable Version: https://github.com/AkiraJkr/Birth-by-Sleep-HD-ReMix/archive/master.zip
-<br>Early Update Version(May have issues): https://github.com/AkiraJkr/Birth-by-Slee-HD-ReMix-Nightly/archive/master.zip
+<br>Early Update Version(May have issues): https://github.com/AkiraJkr/Birth-by-Sleep-HD-ReMix-Nightly/archive/master.zip
 
 
 <br>To install, first download, then go to the TEXTURES Folder found in:
