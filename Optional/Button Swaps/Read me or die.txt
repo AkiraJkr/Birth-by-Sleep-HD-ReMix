@@ -2,5 +2,5 @@ Please, rebind your keys after applying the textures before blaming me you are j
 
 Put your X at O and your O at X. Simple.
 
-Note:If you are on the Not-Final Mix versions, swap only D-Links, Command Menu and Command Styles. They are necessary if you want your X button back.
+Note: If you are on the Original, Not-Final Mix versions(EUR/USA), you may want to swap D-Links(not avaiable currently), Command Menu and Command Styles. They are necessary if you want your X button back. Don't swap anymore of than these or it could cause issues.
 

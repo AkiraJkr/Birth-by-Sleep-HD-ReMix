@@ -3,10 +3,10 @@ A Texture Pack for Kingdom Hearts Birth by Sleep Final Mix, for use in the PPSSP
 
 <b>Warning:</b>
 This Texture Pack was made for the <b>Japanese/English patched Kingdom Hearts Birth by Sleep FINAL MIX.</b>
-<br>Although I can't help you if you have issues with it <b>a compatibility patch was made for it but it's not perfect.</b> 
+<br>Although I can't help you if you have issues with it <b>a partial patch was made for it but it's not perfect.</b> 
 <br>It should work automatically if you change the folder from ULJM05775 to (Region you're playing) and properly check the Button Swaps folder in Optional.(Don't forget the read me)
 
-Currently, there is <b>NO</b> support for the USA version.
+Compatible with both EUR/USA versions.
 
 ![There Should Be a Fancy Image Here](https://i.imgur.com/0v2XaQ1.png)
 
