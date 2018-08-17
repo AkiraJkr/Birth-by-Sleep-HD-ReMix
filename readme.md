@@ -4,20 +4,23 @@ A Texture Pack for Kingdom Hearts Birth by Sleep Final Mix, for use in the PPSSP
 <b>Warning:</b>
 This Texture Pack was made for the <b>Japanese/English patched Kingdom Hearts Birth by Sleep FINAL MIX.</b>
 <br>Although I can't help you if you have issues with it <b>a compatibility patch was made for it but it's not perfect.</b> 
-<br>It should work automatically if you change the folder from ULJM05775 to ULES01441 and properly check the Button Swaps folder in Optional.
+<br>It should work automatically if you change the folder from ULJM05775 to (Region you're playing) and properly check the Button Swaps folder in Optional.(Don't forget the read me)
 
-If you want to contribute to this project, you can either contact me in Discord(AkiraJkr#6764) or do a pull request with your changes/submit issues.
+Currently, there is <b>NO</b> support for the USA version.
 
 ![There Should Be a Fancy Image Here](https://i.imgur.com/0v2XaQ1.png)
 
-# Latest Version: 1.1.0-part1
+# Latest Version: 1.1.0-part2
 
 Original Forum Thread: https://forums.ppsspp.org/showthread.php?tid=24126
 
 <br><b>Download Links:</b>
 
-<br>Stable Version: https://github.com/AkiraJkr/Birth-by-Sleep-HD-ReMix/archive/master.zip
-<br>Nightly Version:  https://github.com/AkiraJkr/Birth-by-Sleep-HD-ReMix-Nightly/archive/master.zip
+<br>Stable Source: https://github.com/AkiraJkr/Birth-by-Sleep-HD-ReMix/
+<br>Stable Version Download: https://github.com/AkiraJkr/Birth-by-Sleep-HD-ReMix/archive/master.zip
+
+<br>Nightly Source: https://github.com/AkiraJkr/Birth-by-Sleep-HD-ReMix-Nightly/
+<br>Nightly Version Download:  https://github.com/AkiraJkr/Birth-by-Sleep-HD-ReMix-Nightly/archive/master.zip
 
 
 <br>To install, first download, then go to the TEXTURES Folder found in:
@@ -59,7 +62,7 @@ Step 2: Go back to the pause menu(Or unpause then pause), press [Cheats], [Edit 
 
 # FAQ
 <br><b>Q:</b> You're taking too long to update, what's going on!?
-<br><b>A:</b> I started this project with the support of hououin_kyouma back in 27/12/2017, whom teached me how to use the texture replaceent feature in PPSSPP and helped in several important things. It had began as a simple pack, with some fonts created by him(that are surprisingly very similar to 2.5's), and some upscaled textures here and there, but soon we got someone to dump the textures, and I began to categorize things, pour more work than I should, and here you have it, a experience that matches the quality of the console, if not better!
+<br><b>A:</b> I started this project with the support of hououin_kyouma back in 27/12/2017, whom teached me how to use the texture replacement feature in PPSSPP and helped in several important things. It had began as a simple pack, with some fonts created by him(that are surprisingly very similar to 2.5's), and some upscaled textures here and there, but soon we got someone to dump the textures, and I began to categorize things, pour more work than I should, and here you have it, a experience that matches the quality of the console, if not better!
 <br>But it's not soo simple for me to keep dumping updates one after another after I got 2.5's textures. There is real life out there on my call, I am a human, not a robot to work 24/7 on it, rarely get motivation to continue on the project, and not to include the crappy computer I have, which doesn't even permit me to run the game properly at the minimum resolution for me to not have pixelated results of the texture pack for testing if everything works fine: https://i.imgur.com/qChMUZi.png
 <br>In short, you'll have to bear with the slow progress, but I am going till the end with this project. Thank you for reading all the way up here.
 
@@ -70,15 +73,17 @@ Step 2: Go back to the pause menu(Or unpause then pause), press [Cheats], [Edit 
 <br><b>A:</b> You can read this: https://goo.gl/fodfVn But I doubt you'd want to, so basically, use a version of PPSSPP that is under 1.5.4-484. I recommend simply using 1.5.4 if that issue bothers you soo much. This is not a error in the texture pack.
 
 <br><b>Q:</b> Why do the faces look blocky/robotic?
-<br><b>A:</b> Limitation in the texture replacement feature, trying to replace all of the avaiable faces in the game for one character will result in them being stuck in one expression forever. See here: https://goo.gl/p5a1Pn
-<br>If you know a breakthrough, tell me.
+<br><b>A:</b> Limitation in the texture replacement feature, trying to replace all of the avaiable faces in the game for one character will result in them being stuck in one expression forever. <b><i>Example video here:</b></i> https://goo.gl/p5a1Pn
+<br><b><i>Explanation:</b></i> I picked a random expression from the ones I dumped in the game, and put it ontop, in higher priority, however you prefer it worded, then I threw in the other expressions that dumped, and implemented them.
+<br><b><i>Result:</b></i> The first act shows the faces working fine, without the ones I dumped implemented, like it should, before I cut her last line, but on the second act, she's stuck on the sad face. She will stay stuck on that face for the rest of the game. That's the reason I preferred to NOT implement the faces at all.
+<br><b><i>If you know a breakthrough, tell me.</b></i>
 
 <br><b>Q:</b> When I'm pressing X, my character attacks, and O, they jump, which opposes my HUD, what's wrong here?
 <br><b>Q:</b> You seem to be playing the Not-Final Mix version of the game. Please check the Button Swaps folder in the Optional folder of the texture pack. Also don't forget to change your controls if you are using the swaps in the Final Mix version.
 
-<br><b>Q:</b> How can I donate/support the project?
-<br><b>A:</b> Contact me on Discord. AkiraJkr#6764
-
 <br><b>Q:</b> Could you give me a meme?
 <br><b>A:</b> Sure. Here you are: https://i.imgur.com/4qVc8Uq.jpg
 
+
+<br><b>Q:</b> How can I donate/support the project or contact you?
+<br><b>A:</b> Contact me on Discord. AkiraJkr#6764
