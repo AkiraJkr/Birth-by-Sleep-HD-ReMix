@@ -10,7 +10,7 @@ Compatible with both EUR/USA versions.
 
 ![There Should Be a Fancy Image Here](https://i.imgur.com/0v2XaQ1.png)
 
-# Latest Version: 1.1.2
+# Latest Version: 1.2.0
 
 Original Forum Thread: https://forums.ppsspp.org/showthread.php?tid=24126
 
@@ -69,7 +69,7 @@ Step 2: Go back to the pause menu(Or unpause then pause), press [Cheats], [Edit 
 <br>KINGDOM HEARTS Birth by Sleep (USA)- ULUS10505
 
 <br><b>Q:</b> You're taking too long to update, what's going on!?
-<br><b>A:</b> I started this project with the support of hououin_kyouma back in 27/12/2017, whom teached me how to use the texture replacement feature in PPSSPP and helped in several important things. It had began as a simple pack, with some fonts created by him(that are surprisingly very similar to 2.5's), and some upscaled textures here and there, but soon we got someone to dump the textures, and I began to categorize things, pour more work than I should, and here you have it, a experience that matches the quality of the console, if not better!
+<br><b>A:</b> I started this project with the support of hououin_kyouma back in 27/12/2017, whom teached me how to use the texture replacement feature in PPSSPP and helped in several important things. It had began as a simple pack, with some fonts created by him, and some upscaled textures here and there, but soon we got someone to dump the textures, and I began to categorize things, pour more work than I should, and here you have it, a experience that matches the quality of the console, if not better!
 <br>But it's not soo simple for me to keep dumping updates one after another after I got 2.5's textures. There is real life out there on my call, I am a human, not a robot to work 24/7 on it, rarely get motivation to continue on the project, and not to include the crappy computer I have, which doesn't even permit me to run the game properly at the minimum resolution for me to not have pixelated results of the texture pack for testing if everything works fine: https://i.imgur.com/qChMUZi.png
 <br>In short, you'll have to bear with the slow progress, but I am going till the end with this project. Thank you for reading all the way up here.
 
