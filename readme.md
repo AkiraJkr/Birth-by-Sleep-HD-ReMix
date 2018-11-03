@@ -36,7 +36,7 @@ Please delete the folder before updating or it may cause errors.
 
 # Extras
 
-<b>Extra Compatibility with the non-Final Mix version in the Optional folder, please CHECK there before you play in that version.
+<b>Extra Compatibility with the non-Final Mix version in the Optional folder, please CHECK there before you play in that version.</b>
 
 <b>Button swaps are avaiable in the Optional folder.</b>
 
