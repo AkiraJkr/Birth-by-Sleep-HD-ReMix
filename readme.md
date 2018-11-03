@@ -10,7 +10,7 @@ Compatible with both EUR/USA versions.
 
 ![There Should Be a Fancy Image Here](https://i.imgur.com/0v2XaQ1.png)
 
-# Latest Version: 1.2.1
+# Latest Version: 1.3.0
 
 Original Forum Thread: https://forums.ppsspp.org/showthread.php?tid=24126
 
@@ -26,9 +26,9 @@ Original Forum Thread: https://forums.ppsspp.org/showthread.php?tid=24126
 <br>To install, first download, then go to the TEXTURES Folder found in:
 PPSSPPDir/memstick/PSP
 
-If it doesn't exist, create it, along with(depending of which version/region you have)ULJM05775/ULES01441 folder, and then drag'n'drop all contents from the ZIP inside it.
+If it doesn't exist, create it, along with(depending of which version/region you have)ULJM05775/ULES01441/ULUS10505 folder, and then drag'n'drop all contents from the ZIP inside it.
 
-In the end, it should look like this: **PPSSPPDir/memstick/PSP/TEXTURES/ULJM05775/AllOfThisGitContents**
+In the end, it should look like this for example: **PPSSPPDir/memstick/PSP/TEXTURES/ULJM05775/AllOfThisGitContents**
 
 It should automatically work if you have not disabled texture replacement.
 
@@ -36,8 +36,9 @@ Please delete the folder before updating or it may cause errors.
 
 # Extras
 
-<b>Button swaps are avaiable in the Optional folder.</b>
+<b>Extra Compatibility with the non-Final Mix version in the Optional folder, please CHECK there before you play in that version.
 
+<b>Button swaps are avaiable in the Optional folder.</b>
 
 <b>Pre-Censor Aqua:</b> Check the Optional folder.
 
@@ -77,7 +78,7 @@ Step 2: Go back to the pause menu(Or unpause then pause), press [Cheats], [Edit 
 <br><b>A:</b> The project is currently not finished, do not expect too many things made at the moment, I am one man working on the textures.ini alone. The compatibility with the Not-Final Mix version of the game is **NOT** complete, but bearable.
 
 <br><b>Q:</b> The Command Bar is ALWAYS filled, what the hell!
-<br><b>A:</b> You can read this: https://goo.gl/fodfVn But I doubt you'd want to, so basically, use a version of PPSSPP that is under 1.5.4-484. I recommend simply using 1.5.4 if that issue bothers you soo much. This is not a error in the texture pack.
+<br><b>A:</b> You can read this: https://goo.gl/fodfVn But I doubt you'd want to, <s>so basically, use a version of PPSSPP that is under 1.5.4-484.</s> Use the latest version instead.(1.7.x+)
 
 <br><b>Q:</b> Why do the faces look blocky/robotic?
 <br><b>A:</b> Limitation in the texture replacement feature, trying to replace all of the avaiable faces in the game for one character will result in them being stuck in one expression forever. <b><i>Example video here:</b></i> https://goo.gl/p5a1Pn
@@ -92,5 +93,6 @@ Step 2: Go back to the pause menu(Or unpause then pause), press [Cheats], [Edit 
 <br><b>A:</b> Sure. Here you are: https://i.imgur.com/4qVc8Uq.jpg
 
 
+
 <br><b>Q:</b> How can I donate/support the project or contact you?
-<br><b>A:</b> Contact me via Discord(AkiraJkr#6764) or my email: akirajkr1@gmail.com
+<br><b>A:</b> Contact me via Discord(AkiraJkr#6764), Twitter(@AkiraJkr1) or my email: akirajkr1@gmail.com
