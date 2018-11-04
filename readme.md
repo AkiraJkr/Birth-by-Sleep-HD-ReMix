@@ -14,7 +14,7 @@ Compatible with both EUR/USA versions.
 
 Original Forum Thread: https://forums.ppsspp.org/showthread.php?tid=24126
 
-<br><b>Download Links:</b>
+# Download Links:
 
 <br>Stable Source: https://github.com/AkiraJkr/Birth-by-Sleep-HD-ReMix/
 <br>Stable Version Download: https://github.com/AkiraJkr/Birth-by-Sleep-HD-ReMix/archive/master.zip
