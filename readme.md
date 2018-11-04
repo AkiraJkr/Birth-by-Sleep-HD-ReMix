@@ -26,13 +26,16 @@ Original Forum Thread: https://forums.ppsspp.org/showthread.php?tid=24126
 # Instructions
 
 <br>To install, first download, then go to the TEXTURES Folder found in:
-PPSSPPDir/memstick/PSP
 
-If it doesn't exist, create it, along with(depending of which version/region you have)ULJM05775/ULES01441/ULUS10505 folder, and then drag'n'drop all contents from the ZIP inside it.
+<br><b>Windows .zip/Compressed/Git version:</b> PPSSPPDir/memstick/PSP
+<br><b>Windows Installer:</b> My Documents/PSP
+<br><b>Android:</b> PSP
+
+If TEXTURES doesn't exist, create it, along with(depending of which version/region you have)ULJM05775/ULES01441/ULUS10505 folder, and then drag'n'drop all contents from the ZIP inside it.
 
 In the end, it should look like this for example: **PPSSPPDir/memstick/PSP/TEXTURES/ULJM05775/AllOfThisGitContents**
 
-It should automatically work if you have not disabled texture replacement.
+It should automatically work if you have not disabled texture replacement, if you did, enable it in Settings/Tools/Developer tools.
 
 Please delete the folder before updating or it may cause errors.
 
