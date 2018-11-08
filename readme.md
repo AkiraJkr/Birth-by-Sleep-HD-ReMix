@@ -1,5 +1,7 @@
 # Birth by Sleep HD ReMix
-A Texture Pack for Kingdom Hearts Birth by Sleep Final Mix, for use in the PPSSPP Emulator.
+<br>A Texture Pack for Kingdom Hearts Birth by Sleep Final Mix, for use in the PPSSPP Emulator.
+
+<br><b><i>Contact on the bottom.</i></b>
 
 <b>Warning:</b>
 This Texture Pack was made for the <b>Japanese/English patched Kingdom Hearts Birth by Sleep FINAL MIX.</b>
@@ -11,9 +13,11 @@ This Texture Pack was made for the <b>Japanese/English patched Kingdom Hearts Bi
 
 ![There Should Be a Fancy Image Here](https://i.imgur.com/0v2XaQ1.png)
 
-# Latest Version: 1.3.0
+# Latest Version: 1.3.1
 
 Original Forum Thread: https://forums.ppsspp.org/showthread.php?tid=24126
+
+Album: https://imgur.com/a/0YzyF1t
 
 # Download Links:
 
