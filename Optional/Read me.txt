@@ -3,7 +3,7 @@ Congratulations for looking at my files! :D
 
 Put ULJM05775 in the SAVEDATA on your PPSSPP's PSP/SAVEDATA folder.
 
-This save file unlocks the theater if you wanna check cutscenes.(Final Mix only.)
+The save file unlocks the theater if you wanna check cutscenes.(Final Mix only.)
 
 ...Don't do this for normal playthrough unless you wanna bug the game out.
 
