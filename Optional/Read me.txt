@@ -1,5 +1,11 @@
 Congratulations for looking at my files! :D
 
+Subtitle Remover
+
+Drop the contents of Subtitle Remover in your Font folder, and hopefully, nothing breaks, and the subtitle is completely transparent.
+
+
+SAVEDATA
 
 Put ULJM05775 in the SAVEDATA on your PPSSPP's PSP/SAVEDATA folder.
 
