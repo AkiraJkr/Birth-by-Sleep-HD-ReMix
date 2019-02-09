@@ -31,7 +31,7 @@ Album: https://imgur.com/a/0YzyF1t
 
 # Instructions
 
-<br>The instructions have been migrated to the links below, made with better clarity.
+<br>The instructions have been migrated to the link below for better clarity.
 
 <br>https://github.com/AkiraJkr/Birth-by-Sleep-HD-ReMix/wiki/Installation
 
