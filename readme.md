@@ -23,11 +23,8 @@ Album: https://imgur.com/a/0YzyF1t
 
 # Download Links:
 
-<br>Stable Source: https://github.com/AkiraJkr/Birth-by-Sleep-HD-ReMix/
-<br>Stable Version Download: https://github.com/AkiraJkr/Birth-by-Sleep-HD-ReMix/archive/master.zip
-
-<br>Nightly Source: https://github.com/AkiraJkr/Birth-by-Sleep-HD-ReMix-Nightly/
-<br>Nightly Version Download:  https://github.com/AkiraJkr/Birth-by-Sleep-HD-ReMix-Nightly/archive/master.zip
+DOWNLOADS HAVE BEEN MOVED
+<br> **[CLICK HERE](https://github.com/AkiraJkr/Birth-by-Sleep-HD-ReMix/wiki/Download-Mirrors)**
 
 # Instructions
 
