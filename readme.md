@@ -15,7 +15,7 @@ This Texture Pack was made for the <b>Japanese/English patched Kingdom Hearts Bi
 
 ![There Should Be a Fancy Image Here](https://cdn.discordapp.com/attachments/389162671175630861/514340886386311188/unknown.png)
 
-# Latest Version: 1.5.0
+# Latest Version: 1.5.1
 
 Original Forum Thread: https://forums.ppsspp.org/showthread.php?tid=24126
 
