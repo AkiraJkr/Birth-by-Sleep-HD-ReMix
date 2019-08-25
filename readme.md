@@ -13,7 +13,7 @@ This Texture Pack was made for the <b>Japanese/English patched Kingdom Hearts Bi
 
 <i>Compatible</i> with both EUR/USA versions.
 
-![There Should Be a Fancy Image Here](https://cdn.discordapp.com/attachments/389162671175630861/514340886386311188/unknown.png)
+![There Should Be a Fancy Image Here, thanks Vlad](https://user-images.githubusercontent.com/27028529/63654292-06af3400-c74f-11e9-9879-a2d593b39de9.png)
 
 # Latest Version: 1.5.1
 
